@@ -30,7 +30,7 @@ def print_banner():
  {Fore.BLUE}0. Exit
 {Fore.YELLOW}{'='*40}
 {Fore.RED}Donasi: https://t.me/fatcatcyberteam
-{Fore.RED}        https://t.me/xinxhau
+{Fore.RED}        https://t.me/bagudung1995
 {Fore.YELLOW}{'='*40}
     """
     print(banner)
